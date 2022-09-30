@@ -14,3 +14,5 @@ class Vehiculo:
   print("Marca :", self.marca)
   print("Modelo : ", self.modelo)
   print("Acelerar: ", self.acelera)
+
+print("ya son varios print")
